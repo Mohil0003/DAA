@@ -66,7 +66,7 @@ void main(){
     bool flag=true;
     int n;
     while(flag){
-        printf("Enter 1 for add Element \n 2 for delete element \n 3 for peap element \n 4 for change element \n 5 for Display Stack \n Enter Anything else for terminate\n");
+        printf("\nEnter 1 for add element \n 2 for delete element \n 3 for peap element \n 4 for change element \n 5 for Display Stack \n Enter Anything else for terminate\n");
         scanf("%d" , &n);
         
         switch(n){
